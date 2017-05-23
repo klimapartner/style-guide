@@ -2,6 +2,7 @@
 
 - [Farben](#farben)
 - [Schrift](#schrift)
+- [Logos](#logos)
 
 ## Farben
 
@@ -32,3 +33,9 @@ css
 ```css
      @import url('https://fonts.googleapis.com/css?family=Roboto');
 ```
+
+## Logos
+
+| logo | name |
+| --- | --- |
+| ![logo.svg](https://rawgit.com/klimapartner/style-guide/master/Logos/logo.svg) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
