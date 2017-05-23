@@ -38,4 +38,4 @@ css
 
 | logo | name |
 | --- | --- |
-| ![logo.svg](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNTAgMTUwIiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCI+CiAgICA8cGF0aCBmaWxsPSIjODM4Njc4IiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0gNSA1IEwgNzQgNSBMIDU2IDIzIEEgNTUuNSA1NS41IDAgMSAwIDEyNyA5NCBMIDE0NSA3NiBMIDE0NSAxNDUgTCA1IDE0NSBaIE0gNDYuNzEgNDYuNzEgTCA4OC40IDUgTCAxNDUgNSBMIDE0NSA2MS42IEwgMTAzLjMxIDEwMy4yOSBBIDQwIDQwIDAgMCAxIDQ2LjcxIDQ2LjcxIFogTSA1My43OCA1My43OCBBIDMwIDMwIDAgMCAwIDk2LjI4IDk2LjI4IEEgMzAgMzAgMCAxIDAgNTMuNzggNTMuNzggWiBNIDEzNSAxNSBMIDkyLjUgMTUgTCA3Mi41IDM1IEEgNDAgNDAgMCAwIDEgMTE0LjkyIDc3LjQyIEwgMTM1LjAyIDU3LjMyIFoiLz4KPC9zdmc+Cg==) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
+| ![logo](https://raw.githubusercontent.com/klimapartner/style-guide/master/Logos/logo.svg?token=AKToNEVVocwjpL78MJJ9eedsIP5S6Bbpks5ZLUnCwA%3D%3D) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
