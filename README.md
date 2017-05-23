@@ -39,9 +39,7 @@ css
 | logo | name |
 | --- | --- |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_base.svg" height="30px"/> | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
-| <img src="https://klimapartner.de/Bilder/Logo/logo_bg.svg" height="30px"/> | 
-[logo.svg](https://klimapartner.de/Bilder/Logo/logo_bg.svg)[100](https://klimapartner.de/Bilder/Logo/100/logo_bg.svg)[150](https://klimapartner.de/Bilder/Logo/150/logo_bg.svg)[200](https://klimapartner.de/Bilder/Logo/200/logo_bg.svg)[300](https://klimapartner.de/Bilder/Logo/300/logo_bg.svg)[500](https://klimapartner.de/Bilder/Logo/500/logo_bg.svg)[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg.svg)
-|
+| <img src="https://klimapartner.de/Bilder/Logo/logo_bg.svg" height="30px"/> | [logo.svg](https://klimapartner.de/Bilder/Logo/logo_bg.svg),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg.svg),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg.svg),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg.svg),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg.svg),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg.svg),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg.svg) |
 
 
 ![logo](https://www.klimapartner.de/Bilder/Logo/logo_br_base.svg)
