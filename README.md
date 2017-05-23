@@ -38,7 +38,7 @@ css
 
 | logo | name |
 | --- | --- |
-| ![logo](https://klimapartner.de/Bilder/Logo/logo_bg_base.svg) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
+| ![logo](https://klimapartner.de/Bilder/Logo/logo_bg_base.svg =30x) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
 
 
 ![logo](https://www.klimapartner.de/Bilder/Logo/logo_br_base.svg)
