@@ -38,4 +38,4 @@ css
 
 | logo | name |
 | --- | --- |
-| ![logo](https://raw.githubusercontent.com/klimapartner/style-guide/master/Logos/logo.svg?token=AKToNEVVocwjpL78MJJ9eedsIP5S6Bbpks5ZLUnCwA%3D%3D) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
+| ![logo](https://www.klimapartner.de/Bilder/Logo/logo_br_base.svg) | [logo.svg](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
