@@ -1,7 +1,7 @@
 # Style Guide
 
-[Farben](#Farben)
-[Schrift](#Schrift)
+- [Farben](#farben)
+- [Schrift](#schrift)
 
 ## Farben
 
