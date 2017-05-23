@@ -1,5 +1,7 @@
-# style-guide
-klimapartner style guide
+# Style Guide
+
+[Farben](Farben)
+[Schrift](Schrift)
 
 ## Farben
 
