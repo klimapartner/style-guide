@@ -36,6 +36,8 @@ css
 
 ## Logos
 
+farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
+
 | logo | name |
 | --- | --- |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_base.svg" height="30px"/> | [base](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg) |
