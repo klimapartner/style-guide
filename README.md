@@ -33,7 +33,7 @@ css
 ```css
      @import url('https://fonts.googleapis.com/css?family=Roboto');
 ```
-### Schrfit installieren
+### Schrift installieren
 
 ubuntu
 
