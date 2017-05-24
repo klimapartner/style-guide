@@ -6,7 +6,9 @@
 - [logo_simple_bg](#logo_simple_bg)
 - [logo_no_margin](#logo_no_margin)
 - [logo_invert](#logo_invert)
-- [logo_invert_round](#logo_invert_round)
+- [logo_invert_round](#logo_invert_round)# Logos
+
+**dies ist ein automatisiertes Document. bitte nicht per Hand editieren!**
 
 ### logo_bg
 
