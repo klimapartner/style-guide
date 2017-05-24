@@ -53,5 +53,17 @@ farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_hellgrau.svg" height="30px"/> | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_hellgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_hellgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_hellgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_hellgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_hellgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_hellgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_hellgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_hellgrau.png) |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg" height="30px"/> | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_dunkelgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_dunkelgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_dunkelgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_dunkelgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_dunkelgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_dunkelgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_violett.png) |
 
+| Bild | Name | Downloads |
+| --- | --- | --- |
+| ![logo_bg_white_blau](https://klimapartner.de/Bilder/Logo/logo_bg_white_blau.svg) | logo_bg_white_blau | ... |
+| ![logo_bg_white_turkis](https://klimapartner.de/Bilder/Logo/logo_bg_white_turkis.svg) | logo_bg_white_turkis | ... |
+| ![logo_bg_white_gruen](https://klimapartner.de/Bilder/Logo/logo_bg_white_gruen.svg) | logo_bg_white_gruen | ... |
+| ![logo_bg_white_gelb](https://klimapartner.de/Bilder/Logo/logo_bg_white_gelb.svg) | logo_bg_white_gelb | ... |
+| ![logo_bg_white_orange](https://klimapartner.de/Bilder/Logo/logo_bg_white_orange.svg) | logo_bg_white_orange | ... |
+| ![logo_bg_white_rot](https://klimapartner.de/Bilder/Logo/logo_bg_white_rot.svg) | logo_bg_white_rot | ... |
+| ![logo_bg_white_violett](https://klimapartner.de/Bilder/Logo/logo_bg_white_violett.svg) | logo_bg_white_violett | ... |
+| ![logo_bg_white](https://klimapartner.de/Bilder/Logo/logo_bg_white.svg) | logo_bg_white | ... |
+| ![logo_bg_white_hellgrau](https://klimapartner.de/Bilder/Logo/logo_bg_white_hellgrau.svg) | logo_bg_white_hellgrau | ... |
+| ![logo_bg_white_dunkelgrau](https://klimapartner.de/Bilder/Logo/logo_bg_white_dunkelgrau.svg) | logo_bg_white_dunkelgrau | ... |
 
 
