@@ -10,7 +10,7 @@
 
 ### logo_bg
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg_base.svg)
 
 farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 
@@ -29,7 +29,7 @@ farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 
 ### logo_bg_white
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg_white.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg_white_base.svg)
 
 farbiger Block mit ausgestanzter Schrift auf **weißem** Hintergrund.
 
@@ -48,7 +48,7 @@ farbiger Block mit ausgestanzter Schrift auf **weißem** Hintergrund.
 
 ### logo_txt
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_txt.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_txt_base.svg)
 
 Logo mit Schrift auf **transparentem** Hintergrund.
 
@@ -67,7 +67,7 @@ Logo mit Schrift auf **transparentem** Hintergrund.
 
 ### logo
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_base.svg)
 
 farbiges Logo auf **transparentem** Hintergrund.
 
@@ -86,7 +86,7 @@ farbiges Logo auf **transparentem** Hintergrund.
 
 ### logo_simple_bg
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_simple_bg.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_simple_bg_base.svg)
 
 farbiges Logo auf **weißem** Hintergrund.
 
@@ -105,7 +105,7 @@ farbiges Logo auf **weißem** Hintergrund.
 
 ### logo_no_margin
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_no_margin.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_no_margin_base.svg)
 
 farbiges Logo auf **transparentem** Hintergrund **ohne Rand**
 
@@ -124,7 +124,7 @@ farbiges Logo auf **transparentem** Hintergrund **ohne Rand**
 
 ### logo_invert
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_invert.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_invert_base.svg)
 
 farbiger Block mit ausgestanztem Logo auf **weißem** Hintergrund
 
@@ -143,7 +143,7 @@ farbiger Block mit ausgestanztem Logo auf **weißem** Hintergrund
 
 ### logo_invert_round
 
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_invert_round.svg)
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_invert_round_base.svg)
 
 farbiger Block mit ausgestanztem Logo auf **weißem** Hintergrund mit **abgerundeten Ecken**
 
