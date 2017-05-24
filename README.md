@@ -36,6 +36,10 @@ css
 
 ## Logos
 
+### logo_bg
+
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg.svg)
+
 farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 
 | Bild | Name | Downloads |
@@ -51,7 +55,11 @@ farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_hellgrau.svg" height="30px"/> | logo_bg_hellgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_hellgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_hellgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_hellgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_hellgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_hellgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_hellgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_hellgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_hellgrau.png) |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg" height="30px"/> | logo_bg_dunkelgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_dunkelgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_dunkelgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_dunkelgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_dunkelgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_dunkelgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_dunkelgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_dunkelgrau.png) |
 
+### logo
 
+[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg)
+
+farbiges Logo auf **transparentem** Hintergrund
 
 | Bild | Name | Downloads |
 | --- | --- | --- |
