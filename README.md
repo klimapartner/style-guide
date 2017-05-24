@@ -49,7 +49,13 @@ arch
 
 [alles zu Logos](https://github.com/klimapartner/style-guide/tree/master/Logos)
 
-<img src="https://klimapartner.de/Bilder/Logo/logo.svg" height="30px"/>
-
+<img src="https://klimapartner.de/Bilder/Logo/logo_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_bg_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_white_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_invert_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_invert_round_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_no_margin_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_simple_bg_blau.svg" height="30px"/>
+<img src="https://klimapartner.de/Bilder/Logo/logo_txt_blau.svg" height="30px"/>
 
 
