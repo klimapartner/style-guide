@@ -49,7 +49,7 @@ arch
 
 [alles zu Logos](https://github.com/klimapartner/style-guide/tree/master/Logos)
 
-here be dargons
+<img src="https://klimapartner.de/Bilder/Logo/logo.svg" height="30px"/>
 
 
 
