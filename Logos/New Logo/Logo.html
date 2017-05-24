@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Logo creator</title>
+    <style>
+      body{display:flex;flex-direction:row;background:#ddd;font-size:12px}
+      h2{font-size:1.2em}
+      div{background:white;margin:5px;padding:5px}
+      label{color:blue;line-height:20px}
+      svg{border:1px solid black;
+            background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect x='0' y='0' width='50' height='50' fill='#999'/%3E%3Crect x='50' y='0' width='50' height='50' fill='#ddd'/%3E%3Crect x='0' y='50' width='50' height='50' fill='#ddd'/%3E%3Crect x='50' y='50' width='50' height='50' fill='#999'/%3E%3C/svg%3E");
+      }
+      #svg{
+        background-size:5% 5%;
+      }
+      svg:nth-of-type(2){
+        background-size:20% 20%;
+      }
+      svg:nth-of-type(3){
+        background-size:20% 20%;
+      }
+      svg:nth-of-type(4){
+        background-size:20% 20%;
+      }
+      svg:nth-of-type(5){
+        background-size:20% 20%;
+      }
+      #Logo{fill:blue;stroke:black;stroke-width:5px;}
+      #sidebar{width:200px}
+      #content{flex:1;min-height:500px}
+    </style>
+  </head>
+  <body>
+    <div id="sidebar">
+      <h2>Logo</h2>
+      <div>
+        <label>width:</label><input type="number" id="width" value="1000"/>
+      </div>
+      <div>
+        <label>height:</label><input type="number" id="height" value="1000"/>
+      </div>
+      <div>
+        <label>space:</label><input type="number" id="space" value="100"/>
+      </div>
+      <div>
+        <label>linewidth:</label><input type="number" id="linewidth" value="100"/>
+      </div>
+      <div>
+        <label>direction:</label><input type="number" id="direction" value="1"/>
+      </div>
+      <hr>
+      <h2>Canvas</h2>
+      <div>
+        <label>c_left:</label><input type="number" id="c_left" value="-100"/>
+      </div>
+      <div>
+        <label>c_top:</label><input type="number" id="c_top" value="-100"/>
+      </div>
+      <div>
+        <label>c_width:</label><input type="number" id="c_width" value="1200"/>
+      </div>
+      <div>
+        <label>c_height:</label><input type="number" id="c_height" value="1200"/>
+      </div>
+    </div>
+    <div id="content">
+      <svg id="svg" viewBox="0 0 1000 1000" width="500px" height="500px">
+        <marker id="arrow" viewBox="0 0 10 10" markerWidth="5" markerHeight="5" refX="8" refY="5" orient="auto">
+          <polygon points="0,0,10,5,0,10" stroke="none" />
+        </marker>
+        <path id="Logo" d="M0,0v500h500v-500z" />
+        <line id="rline" x1="500" y1="500" x2="0" y2="500" stroke="red"/>
+      </svg>
+      <svg id="preview25" viewBox="0 0 1000 1000" width="25px" height="25px" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <use xlink:href="#Logo"/>
+      </svg>
+      <svg id="preview50" viewBox="0 0 1000 1000" width="50px" height="50px" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <use xlink:href="#Logo"/>
+      </svg>
+      <svg id="preview100" viewBox="0 0 1000 1000" width="100px" height="100px" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <use xlink:href="#Logo"/>
+      </svg>
+      <svg id="preview200" viewBox="0 0 1000 1000" width="200px" height="200px" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <use xlink:href="#Logo"/>
+      </svg>
+
+    </div>
+    <script>
+      var svgns="http://www.w3.org/2000/svg"
+
+      var inputs = document.querySelectorAll("input")
+      inputs.forEach(function(input){
+        input.addEventListener("keyup",draw,true)
+      })
+
+      function draw(){
+        svg.setAttribute("viewBox",`${c_left.value} ${c_top.value} ${c_width.value} ${c_height.value}`)
+        preview50.setAttribute("viewBox",`${c_left.value} ${c_top.value} ${c_width.value} ${c_height.value}`)
+        preview25.setAttribute("viewBox",`${c_left.value} ${c_top.value} ${c_width.value} ${c_height.value}`)
+        preview100.setAttribute("viewBox",`${c_left.value} ${c_top.value} ${c_width.value} ${c_height.value}`)
+        preview200.setAttribute("viewBox",`${c_left.value} ${c_top.value} ${c_width.value} ${c_height.value}`)
+        var pfad = "M0,0"
+        pfad+=`v${height.value}h${width.value}v-${height.value/2}l-${width.value/4},${height.value/4}a${width.value/4} ${height.value/4} 0 0 1 -${width.value/2} -${height.value/2}l${width.value/4},-${height.value/4}z`
+        var dist1 = Math.sqrt(2*space.value*space.value)
+
+        pfad+=`M${width.value},0 h-${width.value/2-dist1}L${width.value/4+dist1/2},${height.value/4+dist1/2}A${(width.value-(width.value/2+dist1))/2} ${(height.value-(height.value/2+dist1))/2} 0 0 0 ${width.value-(width.value/4)-dist1/2} ${height.value-height.value/4-dist1/2}L${width.value},${height.value/2-dist1}z`
+
+        var dist2 = Math.sqrt(2*linewidth.value*linewidth.value)
+        var x3 =width.value/4+dist1/2+dist2/2
+        var y3= height.value/4+dist1/2+dist2/2
+        pfad+=`M${x3},${y3} A${(width.value-2*x3)/2} ${(height.value-2*y3)/2} 0 0 1 ${width.value-x3},${height.value-y3}A${(width.value-2*x3)/2} ${(height.value-2*y3)/2} 0 0 1 ${x3},${y3}z`
+
+        var r1x=(width.value-2*x3)/2
+        var r1y=(height.value-2*y3)/2
+        var l = Math.sqrt(r1x*r1x+r1y*r1y)
+        var x1=width.value-linewidth.value
+        var y1=parseInt(linewidth.value)+height.value/2-dist1-dist2
+        var p18={
+          x:width.value/2+dist2+dist1-parseInt(linewidth.value)
+          ,y:linewidth.value}
+        var x2=x1-500
+        var y2=y1+500
+        var z=width.value/4
+        var r=Math.sqrt(2*z*z) -space.value
+        var points=intersect(x1-500,y1-500,x2-500,y2-500,r)
+        var points18=intersect(p18.x-500,p18.y-500,p18.x-1000,p18.y,r)
+        pfad+=`M${width.value-linewidth.value} ${linewidth.value} L${x1} ${y1}
+        L${points[1].x+500} ${points[1].y+500}A${r} ${r} 0 0 0 ${points18[1].x+500} ${points18[1].y+500}L${p18.x} ${p18.y}z`
+        rline.setAttribute("x2",500+r)
+        rline.setAttribute("x1",500-r)
+        console.log(pfad)
+        Logo.setAttribute("d",pfad)
+      }
+      draw()
+
+
+      function intersect(x1,y1,x2,y2,r){
+        var dx= x2-x1
+        var dy= y2-y1
+        var dr= Math.sqrt(dx*dx+dy*dy)
+        var D=x1*y2-x2*y1
+        var dis=(r*r*dr*dr)-D*D
+        var isIntersecting=dis>=0?true:false
+        console.log(r,dis)
+        if(isIntersecting){
+          var p1={}
+          var p2={}
+          p1.x=(D*dy+sng(dy)*dx*Math.sqrt(dis))/(dr*dr)
+          p2.x=(D*dy-sng(dy)*dx*Math.sqrt(dis))/(dr*dr)
+          p1.y=(-D*dx+Math.abs(dy)*Math.sqrt(dis))/(dr*dr)
+          p2.y=(-D*dx-Math.abs(dy)*Math.sqrt(dis))/(dr*dr)
+          return [p1,p2]
+        }
+      }
+
+      function sng(x){
+        if(x<0) return -1
+        return 1
+      }
+    </script>
+  </body>
+</html>
