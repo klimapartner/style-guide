@@ -33,6 +33,17 @@ css
 ```css
      @import url('https://fonts.googleapis.com/css?family=Roboto');
 ```
+### Schrfit installieren
+
+ubuntu
+
+    sudo apt-get install fonts-roboto
+
+arch
+ 
+    yaourt -S ttf-roboto
+    
+
 
 ## Logos
 
