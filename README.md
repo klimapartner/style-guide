@@ -55,15 +55,16 @@ farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 
 | Bild | Name | Downloads |
 | --- | --- | --- |
-| ![logo_bg_white_blau](https://klimapartner.de/Bilder/Logo/logo_bg_white_blau.svg) | logo_bg_white_blau | ... |
-| ![logo_bg_white_turkis](https://klimapartner.de/Bilder/Logo/logo_bg_white_turkis.svg) | logo_bg_white_turkis | ... |
-| ![logo_bg_white_gruen](https://klimapartner.de/Bilder/Logo/logo_bg_white_gruen.svg) | logo_bg_white_gruen | ... |
-| ![logo_bg_white_gelb](https://klimapartner.de/Bilder/Logo/logo_bg_white_gelb.svg) | logo_bg_white_gelb | ... |
-| ![logo_bg_white_orange](https://klimapartner.de/Bilder/Logo/logo_bg_white_orange.svg) | logo_bg_white_orange | ... |
-| ![logo_bg_white_rot](https://klimapartner.de/Bilder/Logo/logo_bg_white_rot.svg) | logo_bg_white_rot | ... |
-| ![logo_bg_white_violett](https://klimapartner.de/Bilder/Logo/logo_bg_white_violett.svg) | logo_bg_white_violett | ... |
-| ![logo_bg_white](https://klimapartner.de/Bilder/Logo/logo_bg_white.svg) | logo_bg_white | ... |
-| ![logo_bg_white_hellgrau](https://klimapartner.de/Bilder/Logo/logo_bg_white_hellgrau.svg) | logo_bg_white_hellgrau | ... |
-| ![logo_bg_white_dunkelgrau](https://klimapartner.de/Bilder/Logo/logo_bg_white_dunkelgrau.svg) | logo_bg_white_dunkelgrau | ... |
+| ![logo_blau](https://klimapartner.de/Bilder/Logo/logo_blau.svg) | logo_blau | ... |
+| ![logo_turkis](https://klimapartner.de/Bilder/Logo/logo_turkis.svg) | logo_turkis | ... |
+| ![logo_gruen](https://klimapartner.de/Bilder/Logo/logo_gruen.svg) | logo_gruen | ... |
+| ![logo_gelb](https://klimapartner.de/Bilder/Logo/logo_gelb.svg) | logo_gelb | ... |
+| ![logo_orange](https://klimapartner.de/Bilder/Logo/logo_orange.svg) | logo_orange | ... |
+| ![logo_rot](https://klimapartner.de/Bilder/Logo/logo_rot.svg) | logo_rot | ... |
+| ![logo_violett](https://klimapartner.de/Bilder/Logo/logo_violett.svg) | logo_violett | ... |
+| ![logo](https://klimapartner.de/Bilder/Logo/logo.svg) | logo | ... |
+| ![logo_hellgrau](https://klimapartner.de/Bilder/Logo/logo_hellgrau.svg) | logo_hellgrau | ... |
+| ![logo_dunkelgrau](https://klimapartner.de/Bilder/Logo/logo_dunkelgrau.svg) | logo_dunkelgrau | ... |
+
 
 
