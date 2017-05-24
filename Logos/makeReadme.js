@@ -51,7 +51,7 @@ logos.forEach(function(logo){
     table += `\n| <img src="https://klimapartner.de/Bilder/Logo/${name}.svg" height="30px"/> | ${name} | ${links} |`
   })
   doc+=`\n\n### ${logo.name}\n\n`
-  doc+=`[source](https://github.com/klimapartner/style-guide/blob/master/Logos/${logo.name}.svg)\n\n`
+  doc+=`[source](https://github.com/klimapartner/style-guide/blob/master/Logos/${logo.name}_base.svg)\n\n`
   doc+=`${logo.desc}\n\n`
   doc+=table
 })
