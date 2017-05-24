@@ -40,12 +40,6 @@ css
 - [logo](#logo)
 
 
-### logo_bg
-
-[source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg.svg)
-
-farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
-
 | Bild | Name | Downloads |
 | --- | --- | --- |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_blau.svg" height="30px"/> | logo_bg_blau | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_blau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_blau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_blau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_blau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_blau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_blau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_blau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_blau.png) |
@@ -57,13 +51,9 @@ farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund.
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_violett.svg" height="30px"/> | logo_bg_violett | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_violett.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_violett.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_violett.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_violett.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_violett.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_violett.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_violett.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_violett.png) |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg.svg" height="30px"/> | logo_bg | [svg](https://klimapartner.de/Bilder/Logo/logo_bg.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg.png) |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_bg_hellgrau.svg" height="30px"/> | logo_bg_hellgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_hellgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_hellgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_hellgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_hellgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_hellgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_hellgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_hellgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_hellgrau.png) |
-| <img src="https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg" height="30px"/> | logo_bg_dunkelgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_dunkelgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_dunkelgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_dunkelgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_dunkelgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_dunkelgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_dunkelgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_dunkelgrau.png) |
-
-### logo
+| <img src="https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg" height="30px"/> | logo_bg_dunkelgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_bg_dunkelgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_bg_dunkelgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_bg_dunkelgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_bg_dunkelgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_bg_dunkelgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_bg_dunkelgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_bg_dunkelgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_bg_dunkelgrau.png) |### logo
 
 [source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo.svg)
-
-farbiges Logo auf **transparentem** Hintergrund
 
 | Bild | Name | Downloads |
 | --- | --- | --- |
@@ -77,7 +67,6 @@ farbiges Logo auf **transparentem** Hintergrund
 | <img src="https://klimapartner.de/Bilder/Logo/logo.svg" height="30px"/> | logo | [svg](https://klimapartner.de/Bilder/Logo/logo.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo.png),[100](https://klimapartner.de/Bilder/Logo/100/logo.png),[150](https://klimapartner.de/Bilder/Logo/150/logo.png),[200](https://klimapartner.de/Bilder/Logo/200/logo.png),[300](https://klimapartner.de/Bilder/Logo/300/logo.png),[500](https://klimapartner.de/Bilder/Logo/500/logo.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo.png) |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_hellgrau.svg" height="30px"/> | logo_hellgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_hellgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_hellgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_hellgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_hellgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_hellgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_hellgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_hellgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_hellgrau.png) |
 | <img src="https://klimapartner.de/Bilder/Logo/logo_dunkelgrau.svg" height="30px"/> | logo_dunkelgrau | [svg](https://klimapartner.de/Bilder/Logo/logo_dunkelgrau.svg),[50](https://klimapartner.de/Bilder/Logo/50/logo_dunkelgrau.png),[100](https://klimapartner.de/Bilder/Logo/100/logo_dunkelgrau.png),[150](https://klimapartner.de/Bilder/Logo/150/logo_dunkelgrau.png),[200](https://klimapartner.de/Bilder/Logo/200/logo_dunkelgrau.png),[300](https://klimapartner.de/Bilder/Logo/300/logo_dunkelgrau.png),[500](https://klimapartner.de/Bilder/Logo/500/logo_dunkelgrau.png),[1000](https://klimapartner.de/Bilder/Logo/1000/logo_dunkelgrau.png) |
-
 
 
 
