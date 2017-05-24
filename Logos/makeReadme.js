@@ -6,8 +6,32 @@ var logos=[
     desc:"farbiger Block mit ausgestanzter Schrift auf **transparentem** Hintergrund."
   },
   {
+    name:"logo_bg_white",
+    desc:"farbiger Block mit ausgestanzter Schrift auf **weißem** Hintergrund."
+  },
+  {
+    name:"logo_txt",
+    desc:"Logo mit Schrift auf **transparentem** Hintergrund."
+  },
+  {
     name:"logo",
-    desc:"farbiges Logo **transparentem** Hintergrund."
+    desc:"farbiges Logo auf **transparentem** Hintergrund."
+  },
+  {
+    name:"logo_simple_bg",
+    desc:"farbiges Logo auf **weißem** Hintergrund."
+  },
+  {
+    name:"logo_no_margin",
+    desc:"farbiges Logo auf **transparentem** Hintergrund **ohne Rand**"
+  },
+  {
+    name:"logo_invert",
+    desc:"farbiger Block mit ausgestanztem Logo auf **weißem** Hintergrund"
+  },
+  {
+    name:"logo_invert_round",
+    desc:"farbiger Block mit ausgestanztem Logo auf **weißem** Hintergrund mit **abgerundeten Ecken**"
   },
 ]
 
