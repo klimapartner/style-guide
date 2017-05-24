@@ -36,6 +36,10 @@ css
 
 ## Logos
 
+- [logo_bg](#logo_bg)
+- [logo](#logo)
+
+
 ### logo_bg
 
 [source](https://github.com/klimapartner/style-guide/blob/master/Logos/logo_bg.svg)
