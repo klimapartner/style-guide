@@ -37,7 +37,7 @@ var logos=[
 
 var colors=["_blau","_turkis","_gruen","_gelb","_orange","_rot","_violett","","_hellgrau","_dunkelgrau"]
 var sizes=["50","100","150","200","300","500","1000"]
-var doc = "# Logos\n\n**dies ist ein automatisiertes Document. bitte nicht per Hand editieren!**"
+var doc = ""
 var toc = ""
 logos.forEach(function(logo){
   toc+=`\n- [${logo.name}](#${logo.name})`
@@ -55,5 +55,5 @@ logos.forEach(function(logo){
   doc+=`${logo.desc}\n\n`
   doc+=table
 })
-doc=toc+doc
+doc="# Logos\n\n**dies ist ein automatisiertes Document. bitte nicht per Hand editieren!**"+toc+doc
 fs.writeFile("README.md",doc,"utf-8",()=>{})
