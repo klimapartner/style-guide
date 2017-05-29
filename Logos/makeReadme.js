@@ -75,6 +75,6 @@ logos.forEach(function(logo){
   doc+=`${logo.desc}\n\n`
   doc+=table
 })
-doc="# Logos\n\n**dies ist ein automatisiertes Document. bitte nicht per Hand editieren!**\n\nto rebuild all logos use ```\ngulp png\n```\n"+toc+doc
+doc="# Logos\n\n**dies ist ein automatisiertes Document. bitte nicht per Hand editieren!**\n\nto rebuild all logos use \n\ngulp png\n\n"+toc+doc
 
 fs.writeFile("README.md",doc,"utf-8",()=>{})
