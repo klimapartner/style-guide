@@ -35,18 +35,38 @@ var logos=[
   },
 ]
 
-var colors=["_blau","_turkis","_gruen","_gelb","_orange","_rot","_violett","","_hellgrau","_dunkelgrau"]
-var sizes=["50","100","150","200","300","500","1000"]
+//var colors=["_blau","_turkis","_gruen","_gelb","_orange","_rot","_violett","","_hellgrau","_dunkelgrau"]
+//var sizes=["50","100","150","200","300","500","1000"]
+
+var config={
+  logo:["logo_base.svg"],
+  sizes:[50,100,150,200,300,500,1000],
+  colors:[
+    {name:"gelb",rgb:"#f5d300"},
+    {name:"orange",rgb:"#ea7c13"},
+    {name:"rot",rgb:"#cc1f2f"},
+    {name:"violett",rgb:"#92007b"},
+    {name:"blau",rgb:"#0069b3"},
+    {name:"turkis",rgb:"#00af8c"},
+    {name:"gruen",rgb:"#8cd000"},
+    {name:"hellgrau",rgb:"#838678"},
+    {name:"grau",rgb:"#3a4136"},
+    {name:"dunkelbraun",rgb:"#644327"},
+    {name:"dunkelgruen",rgb:"#396a37"},
+    {name:"mittelbraun",rgb:"#926a24"}
+  ]
+}
+
 var doc = ""
 var toc = ""
 logos.forEach(function(logo){
   toc+=`\n- [${logo.name}](#${logo.name})`
   var table =`| Bild | Name | Downloads |\n| --- | --- | --- |`
-  colors.forEach(function(item){
-    name=logo.name+item
+  config.colors.forEach(function(item){
+    name=logo.name+"_"+item.name
     var links=`[svg](https://klimapartner.de/Bilder/Logo/${name}.svg)`
-    sizes.forEach(function(size){
-      links+=`,[${size}](https://klimapartner.de/Bilder/Logo/${size}/${name}.png)`
+    config.sizes.forEach(function(size){
+      links+=`,[${size}](https://github.com/klimapartner/style-guide/blob/master/Logos/dest/${size}/${name}.png)`
     })
     table += `\n| <img src="https://klimapartner.de/Bilder/Logo/${name}.svg" height="30px"/> | ${name} | ${links} |`
   })
