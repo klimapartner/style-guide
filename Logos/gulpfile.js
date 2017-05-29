@@ -3,6 +3,7 @@ var convert = require('gulp-rsvg');
 cheerio = require('gulp-cheerio');
 var rename = require("gulp-rename");
 var imagemin = require("gulp-imagemin");
+var webp = require("gulp-webp")
 
 
 
@@ -56,7 +57,7 @@ function makeLogo(color,size){
     .pipe(gulp.dest('./dest/'+size+'/'))
     .pipe(convert({width:size,height:size}))
     .pipe(imagemin())
-    .pipe(gulp.dest('./dest/'+size+'/')).on("end",resolve()).on("error",reject());
+    .pipe(gulp.dest('./dest/'+size+'/')).on("end",resolve).on("error",reject);
   })
 
 }
