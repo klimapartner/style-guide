@@ -64,7 +64,7 @@ logos.forEach(function(logo){
   var table =`| Bild | Name | Downloads |\n| --- | --- | --- |`
   config.colors.forEach(function(item){
     name=logo.name+"_"+item.name
-    var links=`[svg](https://klimapartner.de/Bilder/Logo/${name}.svg)`
+    var links=`[svg](https://github.com/klimapartner/style-guide/blob/master/Logos/dest/${name}.svg)`
     config.sizes.forEach(function(size){
       links+=`,[${size}](https://github.com/klimapartner/style-guide/blob/master/Logos/dest/${size}/${name}.png)`
     })
