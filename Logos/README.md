@@ -1,6 +1,11 @@
 # Logos
 
 **dies ist ein automatisiertes Document. bitte nicht per Hand editieren!**
+
+to rebuild all logos use ```
+gulp png
+```
+
 - [logo_bg](#logo_bg)
 - [logo_bg_white](#logo_bg_white)
 - [logo_txt](#logo_txt)
