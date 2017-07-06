@@ -5,10 +5,10 @@
 - [Logos](#logos)
 
 ## Farben
-
+[css template](/Styles)
 | Farbe | HKS | Web |
 | --- | --- | --- |
-| Gelb | 4 | ![#f5d300](https://placehold.it/15/f5d300/000000?text=+) #f5d300 | 
+| Gelb | 4 | ![#f5d300](https://placehold.it/15/f5d300/000000?text=+) #f5d300 |
 | Orange | 8 | ![#ea7c13](https://placehold.it/15/ea7c13/000000?text=+) #ea7c13  |
 | Rot | 15 | ![#cc1f2f](https://placehold.it/15/cc1f2f/000000?text=+) #cc1f2f |
 | Violett | 29 | ![#92007b](https://placehold.it/15/92007b/000000?text=+) #92007b  |
@@ -23,7 +23,7 @@
 
 ## Schrift
 
-[Roboto](https://fonts.google.com/specimen/Roboto) 
+[Roboto](https://fonts.google.com/specimen/Roboto)
 
 html
 ```html
@@ -47,9 +47,9 @@ ubuntu
     sudo apt-get install fonts-roboto
 
 arch
- 
+
     yaourt -S ttf-roboto
-    
+
 
 
 ## Logos
@@ -64,5 +64,3 @@ arch
 - <img src="https://klimapartner.de/Bilder/Logo/logo_no_margin_blau.svg" height="30px"/> logo_no_margin
 - <img src="https://klimapartner.de/Bilder/Logo/logo_simple_bg_blau.svg" height="30px"/> logo_simple_bg
 - <img src="https://klimapartner.de/Bilder/Logo/logo_txt_blau.svg" height="30px"/> logo_txt
-
-
