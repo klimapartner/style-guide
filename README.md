@@ -33,6 +33,13 @@ css
 ```css
      @import url('https://fonts.googleapis.com/css?family=Roboto');
 ```
+
+Schriftstile für Zeichnungen
+
+Text Deutsch size=25px family=Roboto weight=500
+
+Text Englisch size=20px family=Roboto weight=500 italic
+
 ### Schrift installieren
 
 ubuntu
