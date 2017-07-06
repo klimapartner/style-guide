@@ -1,0 +1,55 @@
+@yellow:#f5d300;
+@orange:#ea7c13;
+@red:#cc1f2f;
+@violet:#92007b;
+@blue:#0069b3;
+@turquoise:#00af8c;
+@green:#8cd000;
+@grey:#838678;
+@darkgrey:#3a4136;
+@darkbrown:#644327;
+@darkgreen:#396a37;
+@middlebrown:#926a24;
+
+@colors: yellow, orange, red,violet,blue,turquoise,green,grey,darkgrey,darkbrown,darkgreen,middlebrown;
+
+/*-----------------------------------------------------------*/
+/* background*/
+/*-----------------------------------------------------------*/
+.for-each(@name in @colors) {
+    .bg_@{name} {
+        background: @@name;
+    }
+}
+/*-----------------------------------------------------------*/
+/* border-color*/
+/*-----------------------------------------------------------*/
+.for-each(@name in @colors) {
+    .bc_@{name} {
+        border-color: @@name;
+    }
+}
+/*-----------------------------------------------------------*/
+/* color*/
+/*-----------------------------------------------------------*/
+.for-each(@name in @colors) {
+    .@{name} {
+        color: @@name;
+    }
+}
+/*-----------------------------------------------------------*/
+/* stroke for SVG*/
+/*-----------------------------------------------------------*/
+.for-each(@name in @colors) {
+    .stroke_@{name} {
+        color: @@name;
+    }
+}
+/*-----------------------------------------------------------*/
+/* fill for SVG*/
+/*-----------------------------------------------------------*/
+.for-each(@name in @colors) {
+    .fill_@{name} {
+        color: @@name;
+    }
+}
