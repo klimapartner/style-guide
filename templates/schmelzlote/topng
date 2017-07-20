@@ -1,0 +1,2 @@
+echo "make sure 'Open Sans Condensed' is installed on your system"
+convert schmelzlote.svg -resize "1080x566^" -gravity center -crop 1080x566+0+0 +repage schmelzlote2.png

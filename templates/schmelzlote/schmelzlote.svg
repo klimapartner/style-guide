@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="566">
+  <image xlink:href="schmelzlote.png"/>
+  <rect x="90" y="335" width="370" height="85" fill="#d8232f"/>
+  <text x="100" y="400" fill="white" font-size="60px" font-family="Open Sans Condensed" font-weight="700">schmelzlote.de</text>
+  <rect x="91" y="410" width="285" height="45" fill="#222"/>
+  <text x="100" y="440" fill="white" font-size="21px" font-family="Open Sans Condensed" font-weight="700">Zubehör für Brandschutzklappen</text>
+</svg>
